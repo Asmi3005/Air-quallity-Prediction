@@ -5,7 +5,7 @@ Air pollution is a growing concern, posing risks to health and the environment. 
 and the Air Quality Index (AQI). By preprocessing data, analyzing features, and applying predictive models, the study aims to accurately classify air quality, enablingproactive measures for pollution management 
 and public safety.
 
-##Features
+## Features
 - Implements data preprocessing, feature selection, and model training.  
 - Visualizes air quality trends with graphs and charts.
 
